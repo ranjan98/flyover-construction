@@ -15,3 +15,6 @@ Starting Node
 Maximum length of the highway
 OUTPUT:
 The path for the flyover to be constructed where the traffic is densest
+
+Sample Input Graph Diagram:
+![Test Image 1](graph.PNG)
